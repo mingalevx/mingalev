@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Мой первый сайт</title>
+</head>
+<body>
+<h1>Добро пожаловать!</h1>
+<p>Это мой первый сайт</p>
+<img src="./cat.jpg" wigth="300px">
+<div>
+<p><b>Моё хобби:</b> фотографировать животных. </p>
+<p><b>Мой девиз:</b> "Начинать надо с малого!" </p>
+</div>
+<div>
+<h3> Три факта обо мне: </h3>
+<blockquote> Я побывал в 5 странах мира. </blockquote>
+<blockquote> Увлекаюсь программированием. </blockquote>
+<blockquote> Я могу залечь с книгой на целый день - с утра до ночи. </blockquote>
+</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uXnLyUZYkVw" title="Youtube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted=media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</html>
